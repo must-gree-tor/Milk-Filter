@@ -8,7 +8,7 @@ Choose any image you like and convert it to something you would find in the seri
 ![Milk Filter Showcase.](https://github.com/LucaSinUnaS/Milk-Filter/blob/main/Showcase.gif)
 
 ## How to open the program?
-There is an EXE file attached which should work perfectly fine on Windows.
+There is an EXE file attached which should work perfectly fine on Windows. To download it, head to the releases section of this GitHub page (should be to the right of the website on PC).
 
 If you are on an OS that doesn't support EXE files, you can download the source code (the file called filter.py), then install Python if you haven't already, and finally on the command line, insert:
 ```
@@ -29,6 +29,7 @@ python filter.py
 ## Notes
 
 - Don't worry if the program freezes during the conversion, after it finishes it will come back to normal.
+- The program will take longer as the image size is bigger.
 - Please contact me in lucamuino@gmail.com if you find any bugs, issues, or you want a new feature!
 - Expect the program to be kind of simple. I put up a GUI quickly to remove the need to do it in console.
 - You are free to do whatever you want with this code. If you want to help adding features, making it prettier, or just refactoring the code, I'll be happy to review them.
