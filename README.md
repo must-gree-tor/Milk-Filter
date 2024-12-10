@@ -30,6 +30,7 @@ python filter.py
 
 - Don't worry if the program freezes during the conversion, after it finishes it will come back to normal.
 - The program will take longer as the image size is bigger.
+- When choosing to compress the image, a temp file will be created right where the program is located. If you want you can delete it after the conversion has finished, but don't worry about its size, it will be very small.
 - Please contact me in lucamuino@gmail.com if you find any bugs, issues, or you want a new feature!
 - Expect the program to be kind of simple. I put up a GUI quickly to remove the need to do it in console.
 - You are free to do whatever you want with this code. If you want to help adding features, making it prettier, or just refactoring the code, I'll be happy to review them.
