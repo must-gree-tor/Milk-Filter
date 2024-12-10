@@ -29,6 +29,7 @@ python filter.py
 ## Notes
 
 - Don't worry if the program freezes during the conversion, after it finishes it will come back to normal.
+- Don't worry if the image looks stretched in the program, when saved it will look normal (you can check viewing it in your default image viewer). It is a current problem where it doesn't take into account the dimension when inserting it into the program, but that problem doesn't happen when saving it.
 - The program will take longer as the image size is bigger.
 - When choosing to compress the image, a temp file will be created right where the program is located. If you want you can delete it after the conversion has finished, but don't worry about its size, it will be very small.
 - Please contact me in lucamuino@gmail.com if you find any bugs, issues, or you want a new feature!
