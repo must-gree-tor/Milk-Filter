@@ -30,7 +30,7 @@ Keep in mind this program was not made for Android, and these steps are just to 
 6. Go back, and click on the play button in the bottom right corner
 7. It should "work" now. You can open the image, apply the effect, and save the image.
 
-Important note: 
+Important notes: 
 - It WILL take quite some time (up to a minute or even more) for the filter to be applied, and the "app" will freeze when loading so don't worry if that happens. Just remember this was made for PC and not for mobile.
 - The "app" is best viewed in portrait mode.
 - Use this slider to move horizontally when opening an image:
