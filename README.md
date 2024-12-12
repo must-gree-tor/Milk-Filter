@@ -34,7 +34,7 @@ Important note:
 - It WILL take quite some time (up to a minute or even more) for the filter to be applied, and the "app" will freeze when loading so don't worry if that happens. Just remember this was made for PC and not for mobile.
 - The "app" is best viewed in portrait mode.
 - Use this slider to move horizontally when opening an image:
-  !(slider)[https://i.imgur.com/V9JhjjV.jpeg]
+  ![slider](https://i.imgur.com/V9JhjjV.jpeg)
 
 ## How do I use it?
 
