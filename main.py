@@ -229,8 +229,8 @@ open_button.pack(expand=True)
 button_created = False
 savedButton = False
 
-apply_button = ttk.Button(frame_3,text='Apply test',command=lambda: apply_filter(filename))
-save_button = ttk.Button(frame_3,text='Save image',command=lambda: save_image(imag))
+#apply_button = ttk.Button(frame_3,text='Apply test',command=lambda: apply_filter(filename))
+#save_button = ttk.Button(frame_3,text='Save image',command=lambda: save_image(imag))
 
 slider_label = tk.Label(frame_3,text="Level of compression (from 0 best quality to 100 worst quality): ")
 slider_label.pack()
